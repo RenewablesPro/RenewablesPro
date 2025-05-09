@@ -4,6 +4,15 @@
 
 ---
 
+## 🎁 Free Sample Model
+
+Get hands-on with our **Simplified Project Finance Model**, a streamlined Excel workbook from our Excel DNA course demonstrating NPV, IRR, DSCR, and debt sculpting:  
+👉 [Download the model (Excel)](https://github.com/RenewablesPro/rvi-sample-models/blob/main/Simplified-Project-Finance-Model.xlsx)  
+🔗 [Full Excel DNA course & tutorial](https://courses.renewablesvaluationinstitute.com/courses/excel-dna-for-project-finance-modeling)
+
+---
+
+
 ## 🎓 Featured Resources
 
 - **PDF Cheatsheet**: [Financial Modeling Shortcuts Cheatsheet (PDF)](https://github.com/RenewablesPro/rvi-financial-modeling/blob/main/cheatsheet-financial-modeling-shortcuts.pdf)  
